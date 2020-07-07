@@ -171,4 +171,5 @@
   <div class="right"></div>
 </section>
 ```
+<img :src="$withBase('/image/layout.png')" alt="foo">
 
