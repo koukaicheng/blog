@@ -1,6 +1,4 @@
----
-sidebarDepth: 2
----
+
 ## 一.Vue响应式原理
 创建vue构造函数 并增加_init初始化函数
 ```js
