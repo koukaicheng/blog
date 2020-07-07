@@ -1,6 +1,7 @@
 module.exports = {
     title: "寇凯成的博客",
     description: 'Welcome',
+    base: '/blog/',
     displayAllHeaders: true,
     markdown: {
         lineNumbers: true
