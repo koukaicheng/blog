@@ -14,12 +14,9 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-git commit -m '更新'
+git commit -m '更新dist文件夹'
 
-# 如果发布到 https://<USERNAME>.github.io
-# git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
-
-# 如果发布到 https://<USERNAME>.github.io/<REPO>
+#  https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:koukaicheng/blog.git master:gh-pages
 
 cd -
