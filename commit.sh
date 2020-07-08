@@ -13,4 +13,4 @@ git push
 
 commit.sh
 
-cd -
+

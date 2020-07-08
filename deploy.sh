@@ -14,7 +14,7 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-git commit -m '更新dist文件夹'
+git commit -m '更新dist文件夹-'
 
 #  https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:koukaicheng/blog.git master:gh-pages
